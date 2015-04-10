@@ -1,0 +1,44 @@
+/*Interface connexion*/
+#app {
+	padding-top:5%;
+	padding-bottom:5%;
+}
+
+#connexion {
+	width:100%;
+	
+	/*texte*/
+	text-align:center;
+	
+	/*espace*/
+	margin-top:10%;
+}
+
+#input_pseudo {
+	height:30px;
+	width:45%;
+	/*border*/
+	border-radius:10px 10px;
+	border: solid 2px white;
+}
+#input_mdp {
+	height:30px;
+	width:45%;
+	/*border*/
+	border-radius:10px 10px;
+	border: solid 2px white;
+}
+
+/*Boutons*/
+
+.connexion {
+	/*style*/
+	background-color:#3F9333;
+	border-color:#3F9333;
+	
+	/*texte*/
+	font-size:1em;
+	font-weight:bold;
+	color:white;
+}
+
